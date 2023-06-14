@@ -4,7 +4,7 @@
   <name>rpojectav_rover</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="gadiel.dejesusWupr.edu">Gadiel Jacob de Jesus </maintainer>
+  <maintainer email="gadiel.dejesus@upr.edu">Gadiel Jacob de Jesus </maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
